@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ec106569-d7fe-42a2-9be8-7111e971c586","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Jack+O%27Lantern+%28DC+Comics%29&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;2476676&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">2476676</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Jack O&#39;Lantern (DC Comics)&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Jack O&#39;Lantern is the name of several fictional characters appearing in American comic books published by DC Comics.\n\n\n== Fictional character biography ==\n\n\n=== Daniel Cormac ===\nThe first Jack O&#39;Lantern is Daniel Cormac of Ireland, who was born to a poor farmer who was granted a magic lantern by an Irish fairy. Cormac is a member of the Global Guardians, an international group of superheroes.  His first recorded mission in Super Friends #8 was to help Green Lantern dismantle a bomb in Ireland. He appears in three solo back up stories in Super Friends issues #37, #40 and #44. \nCormac&#39;s first appearance in the mainstream DC Comics universe is DC Comics Presents #46, helping Superman find an ancient ruin in Ireland. He is later seen as part of a group of  heroes from Ireland and England trying to save the world in the Crisis on Infinite Earths.  \nWhen the United Nations decide to fund the Justice League International, the Global Guardians find themselves without financial support, and disband. Cormac subsequently joins Rumaan Harjavti&#39;s army in Bialya.  After Harjavti is killed by the Queen Bee, Jack voluntarily joins forces with the villainess in taking over the world. He is left dying in a sewer after a battle with the Justice League.  He is found alive by his girlfriend Owlwoman in Justice League Quarterly issues #6 - #8 when the two heroes are found by Doctor Mist. They take a major part in reuniting the Global Guardians and fight with Sonar against the Justice League in Justice League Europe issues #49 and #50. Afterwards, Jack dies of natural causes.\n\n\n=== Marvin Noronsa ===\nMarvin Noronsa is a native of Bialya who takes over the Jack O&#39;Lantern identity at Queen Bee&#39;s behest. Noronsa is able to use Cormac&#39;s mystical lantern only after Queen Bee modifies it.  Noronsa is killed in an explosion caused by Sumaan Harjavti in Justice League America #55 (October 1991).\n\n\n=== Liam McHugh ===\nMore recently, Cormac&#39;s cousin Liam McHugh takes up the mantle of Jack O&#39;Lantern. An Irish \&quot;freedom fighter\&quot; who wields a mystical jack o&#39;lantern and is blessed with incredible agility, McHugh has fought evil in various arenas over the past few years. He was a member of the Leymen (Primal Force) and later joined the Ultramarine Corps in Superbia. He appears in three solo stories in Justice League Quarterly #14, #15 and #17. He became a member of Dr. Mist&#39;s Leymen in Primal Force #0, appearing in every issue until the book was cancelled with issue #14. Liam is last seen as a member of the Ultramarine Corps in JLA #26 and JLA Classified #1- #3.\n\n\n== Powers and abilities ==\nDaniel Cormac and Marvin Noronsa have a mystical lantern that gives them the power of flight, flame projection, teleportation, illusion casting, enhanced strength, and the ability to create fogs.  The power of the lantern is at its weakest at noon, and gradually increases to its peak at midnight.  \nLiam McHugh has found a way to internalize the powers of the mystical lantern, and no longer needs to carry it.\n\n\n== In other media ==\nMarvin Noronsa aka Jack O\u2019Lantern is a recurring villain in Powerless, portrayed by Kimani Ray Smith.\n\n\n== References ==\n\n\n== External links ==\nDaniel Cormac the Unofficial Guide to the DC Universe\nMarvin Noronsa at the Unofficial Guide to the DC Universe\nLiam McHugh at the Unofficial Guide to the DC Universe&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw2360"});});</script>
+</body></html>

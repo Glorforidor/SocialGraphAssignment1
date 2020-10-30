@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fbd30cdf-cacc-409a-ac42-bf894137e6b2","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=King_Tuff&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;King_Tuff&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;King Tuff&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;36841168&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">36841168</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;King Tuff&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Kyle Thomas, known professionally as King Tuff is an American musician, recording on Sub Pop Records and Burger Records.\nKing Tuff and his band have released several music videos and have continually toured across the United States, Australia and Europe since 2012.Thomas is also the lead guitarist and singer of Stoner rock band Witch. He also was also a member of garage rock musician Ty Segall&#39;s backing band The Muggers, formed following the release of Segall&#39;s studio album, Emotional Mugger.\n\n\n== Life and career ==\nThomas grew up listening to music from his father, who was a music fan. Prior to his father getting a Fender Stratocaster when Kyle was seven, he played on a keyboard and drum kit. According to Thomas, the Stratocaster served as a source of inspiration. Thomas never decided what he would do with his life, therefore was hesitant to attend college. After high school, Thomas wrote songs and played with bands, saying: \&quot;I would go on tour, but I never really took it as a serious job up until a couple years ago, when I decided to really make an effort at it. It\u2019s been a real long, slow practice.\&quot;Tuff&#39;s first release was a self-made CD-R distributed by Spirit of Orr records, the majority of which consisted of rough versions of songs later released on Was Dead, King Tuff&#39;s first &#39;official&#39; album. Tuff received scant publicity following the beginning of his career as King Tuff, so he moved on to other projects such as the bands Witch and Happy Birthday. \&quot;King Tuff\&quot; eventually began to gain popularity, leading Thomas to revert to his former stage name of King Tuff.\n\n\n== Was Dead ==\nKing Tuff\u2019s 2008 debut album Was Dead was originally released by Tee Pee Records sister-label The Colonel. It is now considered collectable because so few were pressed. In 2013, Burger Records re-issued a Deluxe blue edition, which charted in the No. 8 position on Billboard&#39;s Heatseeker chart dated June 6.\n\n\n== King Tuff ==\nHis second album, King Tuff was produced by Bobby Harlow and released by Sub Pop on May 29, 2012, charting at No. 21 on Billboard&#39;s Heatseeker Albums chart. The album also debuted on the CMJ charts at No. 14, eventually climbing to No. 2 and knocking Jack White&#39;s Blunderbuss from its top charting position.\n\n\n== Black Moon Spell ==\nOn September 23, 2014, King Tuff released his third album, Black Moon Spell, on Sub Pop Records, again produced by Bobby Harlow, and featuring Ty Segall as guest drummer on the title track. Upon release, the album immediately became CMJ&#39;s \&quot;most added\&quot; for the week of September 23 on college radio airplay. The album debuted at No. 1 on Billboard Heatseeker in the \&quot;Hot Shot Debut\&quot; position chart for the week of October 11, and immediately pushed to the No. 1 position on the CMJ College Radioplay chart for the week of October 14.\n\n\n== Discography ==\n\n\n=== Studio albums ===\nMindblow (2006)\nWas Dead (2007)\nKing Tuff (2012)\nBlack Moon Spell (2014)\nThe Other (2018)\n\n\n=== EPs and singles ===\nHex Dispensers, The / King Tuff - Agatha&#39;s Antlers / Hands (2011)\nWild Desire (2012)\nScreaming Skull (2012)\nKing Tuff / Lentils, The - Biggest Hearts / That Sweet Disease, Pitchfork Review 7\u201d Single Series Vol. 3 (2014)\nPsycho Star (2018)\n\n\n=== Live albums ===\nLive at Third Man Records (2013)\nLive At Pickathon: Ty Segall / King Tuff (with Ty Segall) (2015)\n\n\n=== Witch ===\nWitch (2006)\nParalyzed (2008)\n\n\n== References ==&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2332"});});</script>
+</body></html>

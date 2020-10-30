@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2ba57af6-35e0-4cd7-ad3d-fdab7b1bf5b3","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Night+Force&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;896898&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">896898</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Night Force&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Night Force is the name of three comic book series published by American company DC Comics. The first series, written by Marv Wolfman and illustrated by Gene Colan, debuted in a special insert in The New Teen Titans #21 (July 1982). The second series began in 1996 was one of four books that made up DC&#39;s Weirdoverse group of titles.  The third series began in 2012 as a seven issue miniseries.  It was again written by Marv Wolfman, this time with artist Tom Mandrake.The main character of all three series is Baron Winters, a sorcerer who would assemble a team of chosen individuals to fight supernatural threats. The Baron himself did not participate in the missions and would manipulate, sometimes unethically, others to do so for him. This was because, for reasons not revealed, he could not leave Wintersgate Manor, the labyrinthine mansion in Washington, D.C. where he lived. The mansion was located in a special juncture of time and space, allowing him to send his team to different places and times.\n\n\n== Publication history ==\nThe first Night Force series was launched in August 1982 in the midst of a collapse in the horror comics market, with most titles in the genre being either cancelled or on the verge of cancellation. Despite this, writer Marv Wolfman felt (and publisher DC Comics agreed) that Night Force could be a success: Night Force was my idea, as I was looking for another book to do and felt I\u2019d like to create my own horror title and push the boundaries a bit more than I had with Tomb of Dracula. I really wanted to try something different and thought I had solved the problem of doing an anthology series by doing it with continued characters. The idea was to write for the older audience, with darker and more realistic stories than had been done at that point.\nNight Force was the first collaboration between Wolfman and Tomb of Dracula penciler Gene Colan since Wolfman convinced him to join the staff at DC. Both Wolfman and Colan did extensive creative design work for Night Force before working on the actual issues, with Wolfman charting out the characters&#39; astrology and Colan doing multiple drafts of each character&#39;s visual design.After only 14 issues, Night Force was cancelled due to an underestimating of the series&#39;s sales. Wolfman explained, \&quot;... DC wanted to have Night Force be one of the first direct-sales books, where I believed it should be newsstand only. I felt the comic shops appealed primarily to the superhero fans while Night Force would appeal more to the casual mainstream reader, who might not have bought comics otherwise. We got the comic-book shops&#39; sales early and it was canceled based on those, but when the newsstand sales finally dribbled in we actually sold pretty well\&quot;.Thirteen years later, Night Force was revived as part of the Weirdoverse line. The creative team included Wolfman but not Colan, and did not carry over the plot threads from the original series.\n\n\n== Characters ==\nThe team had a rotating membership, but notable members included:\n\nVanessa Van Helsing \u2013 Granddaughter of Abraham Van Helsing and a powerful psychic.\nJack Gold \u2013 Vanessa&#39;s husband, a reporter.\nDonovan Caine \u2013 A professor of parapsychology who lost an arm and a leg on one of the missions.\nZadok Grimm \u2013 Apparently, an ancient warrior in the time of King David. He has an unexplained connection to Baron Winters.\n\n\n== Other versions ==\nIn issue three of the Tangent: Superman&#39;s Reign series, a version of Night Force is featured. This group is a mystically-powered branch of the Nightwing organization, and its members are Hex, Black Orchid, and Wildcat.\n\n\n== In other media ==\nThe character of Jasper Winters, mentioned in several episodes of Constantine, was loosely based on Baron Winters, although the look is modernized.\n\n\n== References ==\n\n\n== External links ==\nNight Force at the Comic Book DB (archived from the original)\nNight Force vol. 1 at the Grand Comics Database\nNight Force vol. 2 at the Grand Comics Database\nNight Force vol. 3 at the Grand Comics Database\nNight Force at the DC Database Project&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw2372"});});</script>
+</body></html>

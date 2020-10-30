@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c781db8c-263e-459c-ac41-4121f49014c1","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Tommy_Tomorrow&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Tommy_Tomorrow&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Tommy Tomorrow&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;5156521&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">5156521</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Tommy Tomorrow&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Tommy Tomorrow was a science fiction hero published by DC Comics in several of their titles from 1947 to 1963. He first appeared in Real Fact Comics #6 (January 1947). He was created by Jack Schiff, George Kashdan, Bernie Breslauer, Virgil Finlay, and Howard Sherman. The comic was originally intended to feature non-fiction tales in the style of Ripley&#39;s Believe It or Not; Tommy Tomorrow&#39;s trip to Mars was presented as a future vision of space travel. The strip was a back-up feature in Action Comics from issue #127 (Dec 1948) to #147 (Aug 1950).\n\n\n== Fictional character biography ==\nTommy Tomorrow graduated from Space Port \&quot;West Point\&quot; in 1988. He is now a Colonel in the Planeteers, a police force in the 21st Century. Gotham is the capital city of not only the Earth but of the solar system. Every planet, every moon, and even many asteroids in the solar system seemed to have some weird alien life form or sentient race in this series, with even a life-giving ocean on Venus. \nHis first assignment from the Science Bureau was to get some alien fish for the new Interplanetary Aquarium. He meets Joan Gordy of the Interplanetary Radio News, who helps him in this assignment. At the end of the story, he is given the Planeteer Medal for getting the fish.\nThe character was meant to be a sort of \&quot;future everyman,\&quot; but he slowly changed into a policeman, and moved to other titles. In these stories, Tommy, later assisted by Captain Brent Wood, flew the space lanes in their patrol craft \&quot;Space Ace\&quot; donning purple uniforms with yellow trim. With Action #149, Tommy Tomorrow&#39;s adventures were now set in the year 2050, as it was realized by the creators that 1990 was optimistically too soon for such technology as the stories boasted. Most of his stories were written by Otto Binder and drawn by Jim Mooney. Tommy had a kid brother called Tim. Soon after it is revealed that Brent Wood is really the son of notorious space pirate Mart Black and that he was adopted by Captain Wood, who killed him.After a short hiatus, Tommy was retooled and then presented again in Showcase #41 (1962), but did not get another series.  Captain Wood was dropped, giving Tommy an alien from Venus as a partner.  Writer Arnold Drake and artist Lee Elias were the creative team for this version.\n\n\n== Other versions ==\nIn 1990, an alternate Tommy Tomorrow was a major character in Howard Chaykin&#39;s mini-series Twilight, which tried to bring in all of DC future science/space characters into one series (despite the fact that many occurred in different time periods).  Because Tomorrow did not know who his parents were, he was unbalanced, and he ran the Planeteers very autocratically, using them against his enemies, such as their rivals, the Knights of the Galaxy.\nAccording to Starman One Million, one of the historically significant bearers of the Starman name is Tommy Tomorrow II.\nIn the aftermath of the Crisis on Infinite Earths, it was shown that the Great Disaster that created Kamandi&#39;s world did not happen, and the boy who would have grown up to be Kamandi instead grew up to become Tommy Tomorrow.\nA Captain Tomorrow appears in Star Trek/Legion of Super-Heroes.\nIn Just Imagine! Stan Lee Creating the DC Universe, a teenager who grew up with Robin, and a servant of Reverend Darrk was named Tommy Tomorrow.\nA strange alien force seemingly colonizing the town of Demetri, Kansas makes reference to a \&quot;Major Tomorrow\&quot; of a group called the Planeteers in 2010&#39;s Magog #7. It was alluded by various sources at the time that Tommy Tomorrow was going to be a new villain in the series.\nTomorrow also appears as \&quot;T&#39;omas T&#39;morra\&quot; in DC&#39;s 2013 Threshold comic by Keith Giffen.\n\n\n== Bibliography ==\nHe first appeared in short \&quot;stories\&quot; in Real Fact Comics #6, 8, 13, 16 (1947\u201348). He then appeared in Action Comics #127\u2013251 (1948\u201359), then moved to World&#39;s Finest Comics #102\u2013124 (1959\u201362), and finally Showcase #41, 42, 44, 46, 47 (1962\u201363).\n\n\n== In other media ==\nAn image of Tommy Tomorrow appeared in the Harley Quinn episode \&quot;Finding Mr. Right\&quot; while King Shark was looking up potential nemeses for Harley Quinn. He made his first physical appearance in the season 2 finale \&quot;Something Borrowed, Something Green\&quot;, where he received a key to the city from the mayor of Gotham for his role in saving the city alongside the Justice League and later attended Poison Ivy and Kite Man&#39;s wedding.\n\n\n== References ==\n\n\n== External links ==\nDCU Guide: Tommy Tomorrow\nDCU Guide: Tommy Tomorrow Chronology&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw2352"});});</script>
+</body></html>
