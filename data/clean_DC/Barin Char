@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"32ee6b34-5c75-44a1-acd1-8f43065bcb49","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Green_Lantern_Versus_Aliens&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Green_Lantern_Versus_Aliens&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Green Lantern Versus Aliens&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;2222939&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">2222939</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Green Lantern Versus Aliens&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Green Lantern versus Aliens is a four-issue comic book intercompany crossover mini-series published jointly by DC Comics and Dark Horse Comics monthly from September 2000 to December 2000. It is written by Ron Marz and illustrated by penciller Rick Leonardi and inker Mike Perkins, with covers by Dwayne Turner.\nThe series stars several Green Lanterns, primarily Kyle Rayner, and the titular xenomorphs from the Alien movie series. Whether the series takes place in the continuity of the DC Comics Universe is unclear, as Brik and Salaak are alive in current Green Lantern continuity, and no mention of Mogo&#39;s Xenomorph inhabitants is ever made. However, the series is set sometime after the destruction of the original Green Lantern Corps.In 2001, the series was collected into a single volume with a new cover by artist Eric Kohler.\n\n\n== Plot ==\nThe story opens in flashback, ten years before the (at the time) current continuity of the Green Lantern comic books, showing an extraterrestrial Barin Char, the Green Lantern of Sector 1522, dying when a chestburster bursts from his chest. Hal Jordan (who, at the time of the series\u2019 publication, had long been dead) is then summoned by the Guardians of the Universe to rendezvous with fellow Green Lanterns Kilowog, Katma Tui, Tomar-Re, The Green Man and Salaak on the planet Tirama in Sector 1522. The six Green Lanterns are informed of the disappearance of Barin Char and proceed to the border world where he is believed to have disappeared. Tracing the signal from Char&#39;s displaced power ring, they enter a cavern inside a mountainous butte where they discover Char&#39;s corpse before being attacked by a swarm of Xenomorphs. Jordan decides that rather than exterminate an alien species\u2014particularly since the Xenomorphs appear to be only the interstellar equivalent of sharks, the perfect killing machine without actually being evil\u2014they would transport the Xenomorphs to the sentient Green Lantern planet Mogo, where they can not harm anyone.\nA decade later, the Signet Dawn, a Coluan long-range ore transport vessel, crashes onto the planet. Five extraterrestrials\u2014the Xudarian Tomar-Dar, Brik, Ash, M\u2019Hdahna and the aforementioned Salaak\u2014appear on Earth in the apartment of Kyle Rayner, who at the time, is the Green Lantern of Earth and the only Green Lantern in existence. These five are either former Green Lanterns or were intended to become Green Lanterns at the time of Parallax\u2019s destruction of the Green Lantern Corps, and they inform Rayner of the Signet Dawn\u2019s crash on Mogo. The six then journey to Mogo to rescue the ship&#39;s crew. Inside the hull of the ship, they encounter Crowe, the ship&#39;s first officer, who tells Rayner that after the crash, the aliens carried off the other 37 crew members but left her for some reason. Crowe leads Rayner and the others deeper into the ship, where the Xenomorphs attack them, taking Rayner&#39;s companions captive, leaving only him, Crowe, and Salaak. When Rayner tries to grab Tomar as he is pulled down a shaft, his power ring slips off his finger and falls down the shaft.\nThe trio then climbs down the shaft\u2014Kyle and Salaak subsequently settling any remaining tension between them when Salaak apologizes for judging Kyle by what he was not rather than what he was\u2014and discover five of Crowe&#39;s crewmates cocooned by the Xenomorphs, four of whom have been killed by chestbursters. The Xenomorphs then attack the trio, and Crowe and Rayner flee through a passageway, separated from Salaak. They then come across a chamber where they discover a Xenomorph queen with the remainder of Crowe&#39;s crew and Rayner&#39;s companions cocooned around the walls and Rayner&#39;s power ring on the floor. After exchanging a brief kiss for luck, Crowe jumps into the chamber firing at the aliens to distract them while Rayner goes for his ring. During this attempt, the skin on the right half of Crowe&#39;s face is ripped away, revealing that she is a gynoid. Rayner reacquires his ring. Crowe, fatally damaged during the melee, tells Rayner that he shouldn&#39;t leave the Xenomorphs alive to endanger someone else in the future as Jordan did, so Rayner destroys the Xenomorphs, rescuing the surviving Signet Dawn crew and his companions. Ash, Brik and Salaak do not survive. Rayner is left with the thought that sometimes the past comes back to haunt you no matter what one does, another reminder of the legacy of Hal Jordan that looms over him.\n\n\n== Collected editions ==\nThe series has been collected into a trade paperback:\n\nGreen Lantern versus Aliens (96 pages, September, Titan Books, ISBN 1-84023-283-8, August 2001, Dark Horse, ISBN 1-56971-538-6)\n\n\n== Notes ==\n\n\n== References ==&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw2376"});});</script>
+</body></html>

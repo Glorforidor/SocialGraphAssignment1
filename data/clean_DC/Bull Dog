@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c370df01-dd07-4e51-9d30-00eb3d74793c","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Space_Canine_Patrol_Agents&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Space_Canine_Patrol_Agents&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Space Canine Patrol Agents&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;2276572&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">2276572</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Space Canine Patrol Agents&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;The Space Canine Patrol Agents, or SCPA is a group of fictional anthropomorphic extraterrestrial canine superheroes that appeared in stories published by DC Comics.\n\n\n== History ==\nThe SCPA first appeared in Superboy (volume 1) #131 (July 1966). Several of the dogs were given alliterative names which also described their powers: i.e. Paws Pooch was able to increase its number of limbs, Prophetic Pup could predict the future using his \&quot;crystal ball cranium\&quot;, Tail Terrier had an elastic tail, etc.\nThe team was something of a parody of the Legion of Super-Heroes, with enemies such as the \&quot;Phanty Cats\&quot;.\nTheir battle cry and sacred oath, with which they began all meetings, was\n\nBig dog, big dog, bow, wow, wow!\nWe&#39;ll stop evil, now, now, now!The first line parodies the Yale chorus: \&quot;Bulldog, bulldog, bow-wow-wow\&quot;.\nThey are presumed to have been wiped out of existence after the Crisis on Infinite Earths. They have appeared once in a superhero limbo in Grant Morrison&#39;s Animal Man \&quot;Monkey Puzzles\&quot;, where characters that have been written out of continuity reside. While visiting here, Merryman of Inferior Five stated to Animal Man that even if some of these characters may be brought back, times have changed where the Space Canine Patrol Agents (as some of the other animals) will not likely return.However Krypto&#39;s status as the El family dog from Krypton has been restored and The Sandman: Overture issue #3 included a cameo appearance of the \&quot;Space Canine Patrol Corps\&quot;.\n\n\n== Membership ==\nThe Space Canine Patrol Agents roster has included:\nTail Terrier: Has an elastic tail that can be used as a rope. \&quot;Top Dog\&quot; of the SCPA.\nMammoth Mutt: Can inflate to many times his size. Died in his first appearance.\nHot Dog: Pyrokinetic\nTusky Husky: Can turn one of his canine teeth into a long tusk, which is used as a lever.\nBull Dog: Can grow horns.\nPaw Pooch: Can grow additional limbs.\nChameleon Collie: Shapeshifter\nProphetic Pup: Clairvoyant\nKrypto: Similar powers to Superman.\nMammoth Miss: Mammoth Mutt&#39;s girlfriend, with the same powers.\nBeam Beagle: Possessed \&quot;searchlight eyes\&quot;. Died in the line of duty.It was never confirmed which of them is the leader.\n\n\n== In other media ==\nA version of the team appears in the 2000s Krypto the Superdog animated series under the name the Dog Star Patrol. Their battle cry resembles the Space Canine Patrol Agents, but goes:\n\nDog Stars, Dog Stars, bow, wow, wow!\nBark for justice, now, now, now!This version includes:\n\nTail Terrier: He can use his tail as a lasso. He speaks with a Southern accent.\nMammoth Mutt: She can inflate herself like a balloon. A female version, based on Mammoth Miss.\nHot Dog:  He can breathe fire. His powers are triggered by his anger. In the episode \&quot;Bones of Contention\&quot; he started to control his anger.\nTusky Husky: He has a long tooth used as a drill. He speaks with a French-Canadian accent.\nBull Dog: He can grow bull horns out of his head. He speaks with a Cockney British accent.\nPaw Pooch: He can grow multiple limbs.\nKrypto: His powers are similar to Superman&#39;s.\nDrooly: An original character, he has the power of super-drooling, able to create streams of saliva, using it as projectiles or rope. He only appeared in one episode: His powers were considered unimpressive at first, but after he saved the team, he was made a reserve member.\nStretch-o-Mutt: Stretch-o-Mutt was originally a guard-dog for a Star-Labs chemical storage facility.  When chasing his ball he fell into a vat of an unknown chemical, but was quickly rescued by Krypto.  It was later found that his DNA was merged with the elasticity of his ball giving him the ability to contort his body in to whatever he desired.  He later saved the Dog Star Patrol from Mechanikat and became a reserve member.\nThe team is led by Brainy Barker (an original character similar to Marvel Comics&#39; Professor X, she may be loosely based on Prophetic Pup). She possesses powerful psychic abilities, and rides on a pillow instead of walking.\nStreaky the Supercat (despite being a cat) and Ace the Bat-Hound were also made members later in the series.Note: The original seven Dog Stars (Brainy Barker, Tail Terrier, Mammoth Mutt, Hot Dog, Tusky Husky, Bull Dog, and Paw Pooch) are never seen as a group of seven on the show.  Instead the Dog Stars seem to be on a rotation, usually Brainy Barker and five or fewer of the other dogs.\n\n\n== References ==&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw2284"});});</script>
+</body></html>

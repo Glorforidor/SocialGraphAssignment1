@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"38577e8b-c6d7-481c-b131-85865a1026d5","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Our_Fighting_Forces&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Our_Fighting_Forces&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Our Fighting Forces&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;3493325&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">3493325</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Our Fighting Forces&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Our Fighting Forces is a war comics anthology series published by DC Comics for 181 issues from 1954\u20131978.\n\n\n== Publication history ==\nOur Fighting Forces began with an October\u2013November 1954 cover date. Writer-editor Robert Kanigher&#39;s work appeared in most issues of the title. Artist Alex Toth worked with writer/editor Archie Goodwin on the story \&quot;Burma Sky\&quot; in Our Fighting Forces #146 (Dec. 1973\u2013Jan. 1974) and Goodwin praised Toth&#39;s art in a 1998 interview, stating \&quot;To me, having Alex Toth do any kind of airplane story, it&#39;s a joy for me. If I see a chance to do something like that, I will. He did a really fabulous job on it.\&quot; Jack Kirby wrote and drew issues #151 to 162 featuring The Losers. Other contributors include artists Jack Abel, Ross Andru, Ken Barr, Gene Colan, Ed Davis, Mort Drucker, Mike Esposito, Ric Estrada, George Evans, Jerry Grandenetti, Russ Heath, Bruce Jones, Joe Kubert, Irv Novick, John Severin, Tom Sutton, Frank Thorne, and Wally Wood, some of whom would also script. The series was cancelled as part of the DC Implosion with issue #181 (September\u2013October 1978).A Our Fighting Forces one-shot was published in November 2010.\n\n\n== Recurring features ==\nFeatures published in Our Fighting Forces include:\n\nGunner and Sarge (from issue #45 [May 1959] to issue #94 [August 1965]) \u2014 two \&quot;Mud-Marines\&quot; and their white German Shepherd dog Pooch on a small island in the Pacific.\nThe Fighting Devil-Dog Lt. Larry Rock (the brother of Our Army at War&#39;s Sgt. Rock) (from issue #95 [October 1965] until #98 [February 1966]) \u2014 Marine wounded at Corregidor by shrapnel in his head that literally makes him see red on a Pacific island.\nCapt. Phil Hunter (from issue #99 [April 1966] until #105 [January\u2013February 1967]) \u2014 Green Beret in the Vietnam War searching for his twin brother Nick, a pilot shot down by the Viet Cong.\nLt. Hunter&#39;s Hellcats (from #106 [March\u2013April 1967] until #123 [January\u2013February 1970])\u2014 Capt. Hunter&#39;s father Ben in World War II who formed a unit of military prisoners (a comics copy of The Dirty Dozen).\nThe Losers (issues #123 [January\u2013February 1970] to #181 [September\u2013October 1978]) \u2014 DC Comics war heroes who had lost their own features:\nCapt. Storm of the Navy who appeared in his own series Capt. Storm which lasted 18 issues.\nJohnny Cloud of the Army Air Forces who appeared in All-American Men of War.\nGunner &amp; Sarge of the Marines who appeared in their own feature in Our Fighting Forces.\n\n\n== Collected editions ==\nAmerica at War includes Our Fighting Forces #49: \&quot;Blind Gunner!\&quot; by Robert Kanigher and Jerry Grandenetti and Our Fighting Forces #102: \&quot;Cold Steel for a Hot War!\&quot; by Kanigher and Jack Abel, 247 pages, July 1979, ISBN 978-0671249533\nShowcase Presents: The Losers collects G.I. Combat #138 and Our Fighting Forces #123\u2013150, 456 pages, April 2012, ISBN 1-4012-3437-2\nU.S.S. Stevens: The Collected Stories includes \&quot;U.S.S. Stevens\&quot; stories from Our Fighting Forces #125\u2013128, 132, 134, 136, 138\u2013141, 143, and 148, 424 pages, July 2016, ISBN 978-0486801582\nThe Losers by Jack Kirby collects Our Fighting Forces #151\u2013162, 240 pages, March 2009, ISBN 1-4012-2165-3\n\n\n== See also ==\nJack Kirby bibliography\n\n\n== References ==\n\n\n== External links ==\nOur Fighting Forces at the Comic Book DB (archived from the original)\nOur Fighting Forces at Cover Browser\nOur Fighting Forces and Our Fighting Forces one-shot at Mike&#39;s Amazing World of Comics&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw2261"});});</script>
+</body></html>

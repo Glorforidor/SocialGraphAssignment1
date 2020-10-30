@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"44dbd63c-3061-4edc-85ea-40daa6f73576","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Paul_Gustavson&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Paul_Gustavson&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Paul Gustavson&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;2641068&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">2641068</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Paul Gustavson&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Paul Gustavson (n\u00e9 Karl Paul Gustafson August 16, 1916  \u2013 April 29, 1977) was a Finnish-American comic-book writer and artist. His most notable creations during the Golden Age of Comic Books were The Human Bomb for Quality Comics, and the Angel, who debuted in Marvel Comics #1 (Oct. 1939), the first publication of Marvel Comics forerunner Timely Comics. The Angel would star in more than 100 stories in the 1940s. The Human Bomb would later be acquired by DC Comics and make sporadic appearances as late as 2005.\n\n\n== Early life and career ==\n\nGustavson was born in \u00c5land, Finland.\nEmigrating to the U.S. with his family at age five, Gustavson (who modified his name when he entered comics) graduated from Quentin High School in New York City, and studied civil engineering at Manhattan&#39;s Cooper Union. Seguing to art at about age 17, he spent two to three years apprenticing under cartoonist Frank Owen, the husband of one of Gustavson&#39;s childhood friends in Finland. Gustavson assisted on Owen&#39;s Collier&#39;s Magazine humor spot, \&quot;Filbert\&quot;.\nGustavson began working in the studio of the quirkily named Harry \&quot;A\&quot; Chesler, a \&quot;packager\&quot; of comic books for publishers testing the waters of the emerging medium. \&quot;I started at $12 a week\&quot;, he told historian Jim Steranko, who interviewed him in the early 1970s. \&quot;It wasn&#39;t much but in those days it was enough for me. I stayed with Chesler for about two years and, during that time, worked with people like Jack Cole, Mort Meskin, Gill Fox, Fred Guardineer, Charlie Biro, and Bob Wood\&quot;1.\n\n\n== Creating characters ==\nAfter getting married and beginning a family, Gustavson began working for another comics packager, Funnies, Inc., which supplied publisher Martin Goodman with the contents of Marvel Comics #1. The packager also supplied Centaur Publications, for which Gustavson created A-Man, the Arrow, Fantom of the Fair, and Man of War. Other notable work includes humor features in five early issues of DC&#39;s Action Comics, starting with issue #5 (Oct. 1938), and the two-page humor piece \&quot;Major Bigsbee an&#39; Botts\&quot; in the oft-reprinted Batman #1 (Spring 1940).\nHe later joined Quality Comics, one of DC&#39;s predecessors, where publisher \&quot;Busy\&quot; Arnold offered $25 a page. There Gustavson created the Human Bomb (premiering in Police Comics #1, Aug. 1941), signing the earliest episodes with the pseudonym &#39;Paul Carroll. He wrote and drew the feature through September 1946. Gustavson also wrote/drew characters including Magno the Magnetic Man (premiering in Smash Comics #13, 1940); the Spider (premiering in Crack Comics #1, 1940); the Jester (in Smash Comics); and Rusty Ryan.\nGustavson, whose delicate, fine-line art resembles that of fellow Golden Age cartoonist Lou Fine, also worked on Blackhawk, Kid Eternity, Uncle Sam and other characters.\nFrom 1942 to 1945, Gustavson did his World War II military service in the Air Tech Training Command, concurrently studying aerodynamics at Rutgers University. He returned to work for Quality afterward, and in early 1950s for the American Comics Group (AGC), doing humor features. Later that decade, he left the field to become a surveyor and civil engineer for New York State.\nHis brother Nils collaborated with him on Centaur&#39;s Man of War.\n\n\n== Footnotes ==\n^1  The Steranko History of Comics 2 by Jim Steranko (Supergraphics, 1972), p. 99\n\n\n== References ==\n\nLambiek Comiclopedia: Paul Gustafson (Paul Gustavson, Paul Carroll)\nDon Markestein&#39;s Toonopedia: The Angel\nReading Room Index to the Comic Art Collection: \&quot;Gus\&quot; to \&quot;Guvreaux\&quot;\nAlias the Spider\nThe Grand Comics Database&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2292"});});</script>
+</body></html>

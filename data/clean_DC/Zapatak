@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"513383dd-f49f-4a91-9def-c63237fbb65f","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Xenobrood&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;5312145&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">5312145</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Xenobrood&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;Xenobrood is a fictional comic book superhero team in the DC Comics universe.  They first appeared in Xenobrood #0 (October 1994). The series was created by Doug Moench and Tomm Coker.\n\n\n== Publication history ==\nXenobrood #0 was launched as part of DC Comics&#39; Zero Hour event.  The series was not well received, and ran only 7 issues.\n\n\n== Fictional history ==\nThe Xenobrood are four superbeings processed from thousand year old alien crystals discovered by archaeologist Zecharia Leight on a dig in Kuwait near the Iraq border. Leight discovers several Sumerian cuneiform tablets and a chrome cylinder in archaeological strata dated to the 4th millennium BCE. He takes the Sumerian cylinder to both NASA and S.T.A.R. Labs, neither organization was able to analyze it. He ends up taking the cylinder to Creighton Engineering, and their \&quot;Laser Enhanced Spectrographic Analysis\&quot;  process was able to uncover the fact that the cylinder surface was etched with a holographic record that displays Sumerian glyphs. Leight later discovers that the cylinder contained four walnut sized crystals, the crystals rapidly develop into \&quot;four lumps of super-dense protoplasm\&quot; when submerged in seawater and exposed to sunlight. With the help of Lorna Copely owner and founder of Genetrix Inc. Zecharia is able to grow all four forms to maturity. The four awaken fully clothed, mentally mature and self-aware thanks to a psionic link and \&quot;download\&quot; from Leight&#39;s mind.The four declare the \&quot;cerebral data transfer\&quot; from Leight&#39;s mind to be complete, but a lot of data was already pre-programmed into their DNA. The members of the Xenobrood were supposedly created as \&quot;organic robots\&quot;, drone servants used as miners by an alien race named the Vimanians who had made contact with the ancient Sumerians.With Superman&#39;s help the Xenobrood, Leight and Copely explore an ancient abandoned alien laboratory base, and defeat a three-eyed, white-haired Vimanian named Lord Vimana, and the members of his \&quot;Vimanian Bestiary\&quot;. Lord Vimana is the last true survivor of the Vimanian overlords who created the Xenobrood, he is served by an army of human clones. The members of his Bestiary are four organic crystal drones named Kohli (Kali), Gargol (Gargoyle), Tauran (Minotaur), and Mahduse (Medusa).\n\n\n=== Origin of the Metagene ===\n\nAccording to the cuneiform tablets translated by Doctor Leight and his associates, the Vimanians supposedly interfered with human evolution. By having their early worker drones mate with Australopithecus afarensis, and later Homo erectus, the Vimanians intended to jumpstart the human evolutionary process, thereby creating an entire race of super powered slaves. Much later the White Martians would experiment on Homo sapiens who had possibly inherited the metagene left by the Vimanans.\n\n\n== Powers and Abilities ==\nAccording to Superman and Doctor Light, the extra chromosome possessed by members of the Xenobrood is the source of their superhuman abilities.\nThe four drones have bodies that are both crystalline and organic, or as they are later referred to as \&quot;organic crystal\&quot;.\nAll four members of the Xenobrood have Rh negative blood that is still somehow compatible with humans.\nThe drones were created for manual labor, specifically the mining of mineral and metal ores. This is supposedly reflected in the abilities they each exhibit.\n\n\n== Members ==\nAstra - Female in blue costume who can possess people. Used to search for pockets of ore.\nBlip - Green costumed female who can teleport anyone and anything anywhere. Used to transport ore and rubble.\nThrasher - Hulking brute in brown costume with super strength. Used to pulverize stone.\nZapatak - Purple costumed team leader, fires energy bolts. Used to melt ore.\n\n\n== References ==\n\n\n== External links ==\nDCU Guide Xenobrood entry\nComicvine: Xenobrood&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw2291"});});</script>
+</body></html>

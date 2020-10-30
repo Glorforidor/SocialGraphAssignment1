@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e65e3e40-7a63-4e38-81cd-ce3a5f49766b","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=extracts&amp;exlimit=max&amp;explaintext=&amp;titles=Demolition_Team&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Demolition_Team&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Demolition Team&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;3923382&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">3923382</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Demolition Team&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;extract&quot;</span><span class="o">:</span> <span class="s2">&quot;The Demolition Team are fictional characters, a team of mercenaries in the DC Comics universe. They first appeared in Green Lantern #176 (May 1984) and were created by Len Wein and Dave Gibbons.\n\n\n== Fictional character history ==\nIn their initial appearance, the Demolition Team were hired by Congressman Jason Bloch to destroy the Los Angeles branch of Ferris Aircraft. The Ferris employees were virtually defenseless against the team and their state-of-the-art weaponry provided by the Monitor. Help finally arrived in the form of the mysterious Predator who defeated the entire team unaided. It is assumed the Demolition Team were sent to prison soon after the incident.\nThe Demolition Team returned several years later with updated technology only to be handily defeated by the Blood Pack after attacking a nuclear power plant in Germany. Hardhat later appeared committing crimes in Opal City.\nRosie, together with several other scientific geniuses and cybernetic beings (Automan, Brainstorm, Doctor Cyber, Ford, and Emil Hamilton), was for a brief period part of the composite cybernetic being known as Enginehead. However (if this story is still canon), the being seems to have been divided into the individual personalities again shortly after the events of the series Enginehead 1\u20136 (2004).\nMost of the team met their end at the hands of the OMACs during the events of The OMAC Project, but Hardhat was seen alive in Infinite Crisis #7. He is participating in the &#39;Battle of Metropolis&#39;, which was a supervillain first step to conquer the world.Still later, Hardhat was seen among the \&quot;forgotten characters\&quot; of Limbo. Other notables include Ace the Bat-Hound, Geist, Gunfire and Merryman of the Inferior Five. As Merryman explains, Hardhat and all the other inhabitants came here to a realm of &#39;no stories&#39; because they were forgotten about in the real world. They all are rescued by Superman and assist in the battle against the cosmic threat of Mandrakk.\n\n\n== Members ==\nHardhat - A former heavyweight boxing palooka from New York City. His powered helmet and harness made him into a human juggernaut, currently a resident of Limbo.\nJackhammer - A former oil rig worker from Houston. He carried a larger, more powerful version of a jackhammer capable of untold destruction. He is not to be confused with a similarly named character (real name Jackson Hammersmith) who employed an armor suit with two hydraulically charged hammer pistons against Superman while he had been weakened by Lord Satanus and Syren for a time.\nRosie - Leader of the Demolition Team. A former, no-nonsense bar owner in New Orleans, she brandished a rapid-fire hot rivet gun.\nScoopshovel - A former professional jai-alai player from San Diego. His hydraulic power-arm allowed him to dig up almost anything.\nSteamroller - A former motorcycle stunt rider from Chicago. He rode a compact version of a steamroller that could flatten buildings.\n\n\n== In other media ==\nIn Teen Titans series, a character named Steamroller is a cybernetic villain and a member of H.I.V.E. and Brotherhood of Evil.\nThe Demolition Team appears in the fourth season of Arrow with Rosie portrayed by Rachel Luttrell, Hardhat portrayed by Marc Trottier and Jackhammer portrayed by Daniel Cudmore. Scoopshovel and Steamroller are absent from the team. This version is a team of mercenaries that specialize in destroying buildings. In \&quot;Code of Silence\&quot;, the team is hired by Damien Darhk and H.I.V.E. to kill Quentin Lance by destroying a building that he&#39;s in, but were stopped by Team Arrow. The Demolition Team managed to escape and try to destroy the building where a mayoral debate between Oliver Queen and Ruve Adams is taking place. Ruve, Damien Darhk&#39;s wife, orders the Demolition Team to kill Oliver, but they were defeated by Team Arrow and arrested by the police.\n\n\n=== Miscellaneous ===\nThe Demolition Team appears in Justice League Unlimited comic (based on the animated series of the same name) #43.\n\n\n== References ==&quot;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;limits&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;extracts&quot;</span><span class="o">:</span> <span class="mi">20</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw2364"});});</script>
+</body></html>

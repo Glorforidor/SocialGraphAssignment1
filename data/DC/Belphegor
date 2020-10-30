@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7bd43555-2e15-4488-9f1d-196e5460e59d","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar",
+"ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=revisions&amp;rvprop=content&amp;titles=Belphegor&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;warnings&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;main&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;*&quot;</span><span class="o">:</span> <span class="s2">&quot;Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/mailman/listinfo/mediawiki-api-announce&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.&quot;</span>
+        <span class="p">},</span>
+        <span class="s2">&quot;revisions&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;*&quot;</span><span class="o">:</span> <span class="s2">&quot;Because \&quot;rvslots\&quot; was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.&quot;</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;261998&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mi">261998</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Belphegor&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;revisions&quot;</span><span class="o">:</span> <span class="p">[</span>
+                    <span class="p">{</span>
+                        <span class="s2">&quot;contentformat&quot;</span><span class="o">:</span> <span class="s2">&quot;text/x-wiki&quot;</span><span class="p">,</span>
+                        <span class="s2">&quot;contentmodel&quot;</span><span class="o">:</span> <span class="s2">&quot;wikitext&quot;</span><span class="p">,</span>
+                        <span class="s2">&quot;*&quot;</span><span class="o">:</span> <span class="s2">&quot;{{about|the demon|the Austrian band|Belphegor (band)||Belphegor (disambiguation)}}\n{{Refimprove|date=January 2011}}\n[[Image:Belphegor.jpg|right|thumb|Belphegor illustration from the &#39;&#39;[[Dictionnaire Infernal]]&#39;&#39;]]\n[[File:Flipart-Oudry-La Fontaine-Belph\u00e9gor 1.jpg|thumb|Belphegor by [[Jean Jacques Flipart]]]]\nIn [[demonology]], &#39;&#39;&#39;Belphegor&#39;&#39;&#39; (or &#39;&#39;&#39;Beelphegor&#39;&#39;&#39;, {{lang-he|\u05d1\u05b7\u05bc\u05e2\u05b7\u05dc-\u05e4\u05b0\u05bc\u05e2\u05d5\u05b9\u05e8}} &#39;&#39;ba\u02bfal-p\u0259&lt;nowiki&gt;[&lt;/nowiki&gt;[[Ghayn|\u0121]]]\u02bf\u014dr&#39;&#39; - Lord of the Gap) is a [[demon]], and one of the [[Classification of demons#Binsfeld&#39;s classification of demons|seven princes of Hell]], who helps people make discoveries. He seduces people by suggesting to them ingenious inventions that will make them rich. \n\n[[Bishop]] and [[witch-hunt]]er [[Peter Binsfeld]] believed that Belphegor tempts by means of laziness.&lt;ref&gt;{{cite book |title=Merriam-Webster&#39;s Encyclopedia of World Religions |publisher=Merriam-Webster |author=Wendy Doniger |year=1999 |url=https://archive.org/details/isbn_9780877790440 |url-access=registration |page=[https://archive.org/details/isbn_9780877790440/page/287 287] |quote=Belphegor Demon. |isbn=0-87779-044-2 }}&lt;/ref&gt; Also, according to Peter Binsfeld&#39;s &#39;&#39;Binsfeld&#39;s Classification of Demons&#39;&#39;, Belphegor is the chief demon of the [[deadly sin]] known as Sloth in Christian tradition.&lt;ref&gt;{{Cite book |title=Encyclopedia of Demons and Demonology |author=Rosemary Guiley |pages=28\u201329 |publisher=Facts on File |year=2009 }}&lt;/ref&gt;\n\n==History==\nBelphegor originated as [[Baal-Peor]], the [[Moab]]ite, the father of God to whom the [[Israelites]] became attached in [[Abila (Peraea)|Shittim]] (&#39;&#39;[[Book of Numbers|Numbers]]&#39;&#39; [[Balak (parsha)|25:3]]), which was associated with licentiousness and orgies. It was worshipped in the form of a [[phallus]]. As a demon, he is described in [[Kabbalah|Kabbalistic]] writings as the \&quot;disputer\&quot;, the counterpart of the sixth [[Sefirot|Sephiroth]] \&quot;beauty\&quot;. When summoned, he can grant riches, the power of discovery and ingenious invention. His role as a demon was to sow discord among men and seduce them to evil through the apportionment of wealth.{{citation needed|date=December 2011}}\n\nThe [[palindromic prime]] number 1000000000000066600000000000001 is known as [[Belphegor&#39;s prime]], due to the significance of containing the number [[666 (number)#The Number of the Beast|666]], on both sides enclosed by [[13 (number)#Unlucky 13|thirteen]] zeroes and a one. An entire sequence of \&quot;palindromic Belphegor numbers\&quot; is formed from computing (10^(&#39;&#39;n&#39;&#39;+3)+666)*10^(&#39;&#39;n&#39;&#39;+1)+1 for different values of &#39;&#39;n&#39;&#39;: 16661, 1066601, 100666001, 10006660001, 1000066600001, 100000666000001, 10000006660000001, 1000000066600000001, 100000000666000000001, 10000000006660000000001, 1000000000066600000000001, 100000000000666000000000001, 10000000000006660000000000001, 1000000000000066600000000000001.&lt;ref&gt;{{cite OEIS|A232449|The palindromic Belphegor numbers}}&lt;/ref&gt; All of these numbers are palindromic and contain \&quot;666\&quot;, but only the first and last are prime.\n\nAccording to [[Jacques Collin de Plancy|Collin de Plancy]]&#39;s {{lang|fr|[[Dictionnaire Infernal]]}}, Belphegor was [[Hell]]&#39;s ambassador to [[France]]. Consequently, his adversary is [[Mary Magdalene]], one of the patron saints of France. \n\nBelphegor also figures in [[John Milton]]&#39;s &#39;&#39;[[Paradise Lost]]&#39;&#39; and in [[Victor Hugo]]&#39;s &#39;&#39;[[Toilers of the Sea]]&#39;&#39;.{{citation needed|date=December 2011}} {{lang|it|[[Belfagor arcidiavolo]]}} by the Italian diplomat [[Niccol\u00f2 Machiavelli]] was first published in 1549 and regales how the demon comes to earth to find a mate. This story became the initial source material for [[Ottorino Respighi]]&#39;s opera &#39;&#39;[[Belfagor]]&#39;&#39; which premiered at [[La Scala]] in [[Milan]] in 1923. Belphegor also appears a character in the final season of the TV show &#39;&#39;[[Supernatural (American TV series)|Supernatural]]&#39;&#39;.&lt;ref&gt;{{Cite news |url=https://www.denofgeek.com/tv/supernatural-season-15-episode-2-review-raising-hell/ |title=&#39;&#39;Supernatural&#39;&#39; Season 15 Episode 2 Review: Raising Hell |author=Bridget LaMonica |work=[[Den of Geek]] |date=October 18, 2019 |accessdate=August 23, 2020 }}&lt;/ref&gt;\n\n== References ==\n{{Reflist}}\n\n[[Category:Demons in Christianity]]\n[[Category:Deities in the Hebrew Bible]]\n[[Category:Baal]]&quot;</span>
+                    <span class="p">}</span>
+                <span class="p">]</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw2360"});});</script>
+</body></html>
