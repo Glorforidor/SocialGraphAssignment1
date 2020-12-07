@@ -94,34 +94,73 @@ The result of this can be seen in the following word clouds. Communities are ord
 <!-- discuss the outcome -->
 #### Community 1
 The word cloud contains words such as hacker, infosec, queer, blacktechtwitter, pronoun, hacknotcrime, adhd, artist and more.
-This suggests that this community is centered mainly around hacker and infosec. Furthermore it seems that many members of this community cares about identity and social issues such as racism.
+This suggests that this community is centered mainly around hacker and infosec. Furthermore it seems that many members of this community cares about their identity and social issues such as racism.
 
 #### Community 2
-The word cloud contains words such as mcafeee, malware, ransomware, cyber, kaspersky, threat, cve, intelligence.
+The word cloud contains words such as mcafeee, malware, ransomware, cyber, kaspersky, threat, cve, intelligence, etc.
 This suggests that this community is centered around anti virus and malware research.
 
 #### Community 3
-The word cloud contains words such as blockchain, socialmedia, influencer, ai, datascience, digitaltransformation
+The word cloud contains words such as blockchain, socialmedia, influencer, ai, datascience, bigdata, digitaltransformation, etc.
 This suggests that this community is centered around more "soft" security related topics. Most of the words in this word cloud are new terms and technologies such as blockchain, influencer, fintech and bigdata.
 
 #### Community 4
-The word cloud contains words such as words european, union, sécurité, ireland, governance
+The word cloud contains words such as words european, union, sécurité, ireland, governance, etc.
 This suggests that this community is centered around security related to europe and the european union. The word cloud also has non-english words, suggesting that this community consists of non-native english speakers.
 
 #### Community 5
-The word cloud contains words such as facebook, resist, subscribe, youtube, instagram, daily
+The word cloud contains words such as facebook, resist, subscribe, youtube, instagram, daily, etc.
 This suggests that this community is centered around social media and news related topics. This could very likely be Twitter profiles belonging to news sites that write about cyber security.
-
-
-
-### Step 3.2 - Sentiment of communities
+### Step 3.2 - Word cloud for location
 <!-- Explain what you're interested in -->
+The word cloud analysis of our communities showed that there are different communities within our Twitter sphere. Twitter is a global social network, and we therefore want to examine the location of these communities, to see if security people are also spread around the globe. We decided to include this analysis in our final project, as the fourth community was centered around the European Union. Therefore we found it interesting to examine whether or not this was related to the location of the tweeters.
+🦭👍
 <!-- Describe the tool -->
-<!-- Here we apply the tool -->
-<!-- discuss the outcome -->
+Once again we utilize word clouds to find the most frequent locations and match this with the information found in the previous analysis on what these security people write in their bio.
+🦭👍
 
-Python Library: nltk
+<!-- Here we apply the tool -->
+
+<!-- discuss the outcome -->
+As it can be seen in the word clouds, community 1, 2, 3 and 5 are primarily dominated by american residents. But community 4, that we previously discovered were dominated by words related to the European Union, is filled primarily with locations from Europe. These are locations such as Brussels, Belgium, England and Germany, and therefore supports our theory that this community is located within Europe. Certain words related to Brazil can also be found, though we are unsure why.
+🦭👍
+
+### Step 3.3 - Sentiment of communities
+<!-- Explain what you're interested in -->
+The communities we found previously in this notebook are very different from each other, even though all the Twitter profiles are within the cyber security domain. In the beginning of the project we were interested in knowing if security people were split in two communities, an offensive and defensive. And with this split of communities, we wanted to know if they were equally happy. The analysis of communities showed that we in fact had more communities, and that they were not divided as we thought. With this said, it is still very interesting to analyze how happy the individual communities are.  
+
+<!-- Describe the tool -->
+To describe the happiness of each community, we fetch the latest 20 tweets for each of the profiles in the communities. Using the results from the paper "Temporal Patterns of Happiness and Information in a Global Social Network: Hedonometrics and Twitter" [3], we extract known words from tweets and apply a sentiment value to each. We then find the average sentiment value for each community and compare these results to each other
+<!-- Here we apply the tool -->
+
+<!-- discuss the outcome -->
+Surprisingly, the results show no significant variance in the sentiment value of our communities. They all have a sentiment value between 5.42 and 5.52 which is a very neutral sentiment value.
+
+
+## Discussion
+This project was conceived with the belief that the cyber security twitter sphere consisted primarily of offensive and defensive Twitter profiles. This turned out to be a very simplified version of the actual world, where we discovered that a lot of communities exist within our Twitter sphere. While the most popular Twitter profiles were well-known, the word cloud analysis discovered more diverse communities than we initially thought existed. However, the project clearly shows that Twitter communities exist, and interestingly enough, most communities consist of profiles located in USA.
+
+With this said, the sentiment analysis did not show a significant variance between communities, and this is something that could be looked further into. Maybe more data could be included into this, including data such as replies, GIF reactions and simply more tweets. The sentiment analysis also excluded tweets written in a language other than english, as the dataset we used to compare sentiment only contained english words. Approximately 15% of tweets were not in english.
+
+At last, maybe a larger dataset of more tweets and search words could be used to further expand upon the Twitter cyber security world to see if more communities can be discovered. As the entire dataset is gathered from the initial 3546, a larger initial dataset could reveal entirely different communities and a broader network.
+
+
+## Contribution
+
+In the following table we put in the main and secondary contributor for each part of the project.
+
+| Section                       | Main Contributor   | Secondary Contributor |
+|:------------------------------|--------------------|-----------------------|
+| Code                          | Peter Bom Jakobsen |                       |
+| Web page                      | Yucheng Ren        |                       |
+| Motivation                    |                    |                       |
+| Basic stats                   |                    |                       |
+| Tools, Theory and Analysis    | Søren Fritzbøger   |                       |
+| Discussion                    |                    |                       |
+| Contribution                  |                    |                       |
+
 
 ## References
 [1] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679#s1
 [2] https://www.trustedsec.com/
+[3] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026752#s4
